@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(75, 220, 172);
+    width: auto;
+}
+
+body section aside #imgcodigo {
+    width: 500px;
+    float: left;
+    border-radius: 5%;
+}
